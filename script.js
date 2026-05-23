@@ -49,16 +49,3 @@ const revealObserver = new IntersectionObserver(
 );
 
 document.querySelectorAll("[data-reveal]").forEach((element) => revealObserver.observe(element));
-
-document.querySelector("#contactForm")?.addEventListener("submit", (event) => {
-  event.preventDefault();
-  const formData = new FormData(event.currentTarget);
-  const subject = encodeURIComponent(`Zapytanie o ${formData.get("package") || "stronę internetową"}`);
-  const body = encodeURIComponent(
-    `Imię i firma: ${formData.get("name")}\nE-mail: ${formData.get("email")}\nPakiet: ${formData.get(
-      "package"
-    )}\n\nWiadomość:\n${formData.get("message") || ""}`
-  );
-
-  window.location.href = `mailto:${CONTACT_EMAIL}?subject=${subject}&body=${body}`;
-});
