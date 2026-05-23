@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 880" role="img" aria-labelledby="title desc">
+  <title id="title">Mockup sklepu internetowego premium</title>
+  <desc id="desc">Elegancki sklep online z kartami produktów, koszykiem i złotym akcentem.</desc>
+  <rect width="1280" height="880" fill="#faf8f4"/>
+  <path d="M112 696c126-28 282-44 468-18 202 28 350 4 590-72v146H112z" fill="#6f45ef" opacity=".12"/>
+  <rect x="120" y="84" width="1040" height="660" rx="30" fill="#111015"/>
+  <rect x="154" y="120" width="972" height="590" rx="20" fill="#ffffff"/>
+  <rect x="154" y="120" width="972" height="70" rx="20" fill="#111015"/>
+  <rect x="198" y="146" width="180" height="18" rx="9" fill="#c7a15a"/>
+  <rect x="808" y="142" width="70" height="24" rx="12" fill="#ffffff" opacity=".22"/>
+  <rect x="898" y="142" width="70" height="24" rx="12" fill="#ffffff" opacity=".22"/>
+  <rect x="988" y="138" width="92" height="32" rx="16" fill="#6f45ef"/>
+  <rect x="210" y="252" width="332" height="54" rx="10" fill="#111015"/>
+  <rect x="210" y="334" width="430" height="18" rx="9" fill="#6f45ef" opacity=".2"/>
+  <rect x="210" y="366" width="348" height="18" rx="9" fill="#6f45ef" opacity=".13"/>
+  <rect x="210" y="420" width="148" height="44" rx="8" fill="#4d2fc8"/>
+  <rect x="408" y="238" width="636" height="342" rx="24" fill="#f6f1e8"/>
+  <rect x="442" y="274" width="164" height="250" rx="18" fill="#ffffff"/>
+  <rect x="638" y="274" width="164" height="250" rx="18" fill="#ffffff"/>
+  <rect x="834" y="274" width="164" height="250" rx="18" fill="#ffffff"/>
+  <circle cx="524" cy="354" r="46" fill="#6f45ef" opacity=".84"/>
+  <circle cx="720" cy="354" r="46" fill="#c7a15a" opacity=".82"/>
+  <circle cx="916" cy="354" r="46" fill="#111015" opacity=".88"/>
+  <rect x="470" y="438" width="108" height="12" rx="6" fill="#111015" opacity=".7"/>
+  <rect x="470" y="466" width="74" height="12" rx="6" fill="#6f45ef" opacity=".55"/>
+  <rect x="666" y="438" width="108" height="12" rx="6" fill="#111015" opacity=".7"/>
+  <rect x="666" y="466" width="74" height="12" rx="6" fill="#6f45ef" opacity=".55"/>
+  <rect x="862" y="438" width="108" height="12" rx="6" fill="#111015" opacity=".7"/>
+  <rect x="862" y="466" width="74" height="12" rx="6" fill="#6f45ef" opacity=".55"/>
+  <rect x="720" y="610" width="324" height="58" rx="14" fill="#111015"/>
+  <rect x="750" y="631" width="134" height="16" rx="8" fill="#ffffff" opacity=".72"/>
+  <rect x="924" y="622" width="86" height="34" rx="17" fill="#c7a15a"/>
+</svg>
